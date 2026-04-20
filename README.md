@@ -8,12 +8,18 @@
 # Project Overview
 This project focuses on analysing restaurant order data by performing data cleaning in Excel and creating interactive dashboards in Power BI. The dataset was processed to remove inconsistencies, standardize formats, and ensure data accuracy before visualization. Power BI is used to present key insights on sales performance, order trends, and menu analysis.
 
+---
+
 # Project Objective
 The objective of this project is to analyse restaurant sales data to identify revenue trends, peak order times, and top-performing menu items. By combining Excel for data preparation and Power BI for visualization, the project aims to support data-driven decision-making and improve business performance.
+
+---
 
 # Data Sources
 ### Sources & Timeline
 - Restaurant Orders - Maven Analytics | Build Data Skills, Faster & 2023
+
+---
 
 # 	Problem Statement
 - 	To analyse restaurant sales performance to identify revenue trends and overall business growth.
@@ -21,6 +27,8 @@ The objective of this project is to analyse restaurant sales data to identify re
 - 	To study peak order times and customer ordering patterns to improve operational efficiency.
 - 	To evaluate category-wise performance to understand which food categories generate higher sales.
 - 	To understand customer purchasing behaviour to support better marketing and promotional strategies.
+
+---
 
 # Attribute Details
 | Attribute Name     | Data Type        | Description                                                                 |
@@ -34,9 +42,13 @@ The objective of this project is to analyse restaurant sales data to identify re
 | category         | Text (String)    | Category of the item (e.g., Food, Beverages)                               |
 | price            | Decimal / Float  | Price of the item                                                          |
 
+---
+
 # 	Data Pre-Processing (Excel / Power query)
 - 	**Data Cleaning & Transformation:** Removed duplicates, handled missing values, standardized formats, and created calculated fields.
 -  	**Pivot Tables:** Generated Pivot Tables for data summarization and initial insights.
+
+---
 
 # 	Analysis and Visualizations (Power BI)
 - 	**Interactive Dashboard:** Designed with user-friendly navigation, enabling dynamic exploration of restaurant sales and order data across multiple dimensions
@@ -49,7 +61,10 @@ The objective of this project is to analyse restaurant sales data to identify re
 - 	**Sales Extremes Identification:** Identifies the highest and lowest sales dates along with their corresponding revenue to highlight peak and low-performing days
 - 	**Tooltips & Data Labels:** Provide additional insights and clarity on visuals for better understanding
 
-  <img width="1322" height="741" alt="RO dash" src="https://github.com/user-attachments/assets/a34de60f-db5d-4085-9d38-8b9aac3f37bc" />
+ <img width="1322" height="738" alt="order dashboard" src="https://github.com/user-attachments/assets/5de3fb5f-79bc-40b2-a114-7cf60019e4eb" />
+
+
+---
 
   # Insights
 - 	Overall revenue reached 161.95K, showing steady growth
@@ -59,13 +74,28 @@ The objective of this project is to analyse restaurant sales data to identify re
 - 	March generated the highest revenue among all months
 - 	Certain dates showed low sales performance, indicating potential improvement areas
 
+---
+
   # Conclusions
   The dashboard highlights strong sales performance, clear peak hours, and key   revenue drivers, enabling data-driven decisions to improve business performance and customer engagement.
+
+---
   
 # Author
 
 #### Akash MR
 Data Analyst 
+
+- Github : [Akash MR](https://github.com/AkashMR98/Project-PowerBI-Restaurant-Orders-Dashboard/blob/main/README.md)
+- Email : [Akash MR](akashmr757@gmail.com)
+
+---
+
+Tags 
+
+`#Powerbi` `#DataAnalysis` `#DataVisualization` `#Dax` 
+
+`#SalesAnalysis` `#RestaurantAnalysis`
 
 
 
